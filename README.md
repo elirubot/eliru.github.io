@@ -1,2 +1,1 @@
-# eliru.github.io
-eliru.github.io
+# eliru.github.io/index.html
