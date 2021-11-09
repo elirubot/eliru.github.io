@@ -36,6 +36,6 @@ $(document).ready(function () {
   });
 });
 VK.init({
-    apiId: ВАШ_API_ID,
+    apiId: 653112580_354b3cb2ef3124ab57,
     onlyWidgets: true
   });
