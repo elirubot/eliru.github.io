@@ -35,3 +35,7 @@ $(document).ready(function () {
     $("#collapsibleNavbar").toggle();
   });
 });
+VK.init({
+    apiId: ВАШ_API_ID,
+    onlyWidgets: true
+  });
