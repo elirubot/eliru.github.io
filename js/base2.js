@@ -18,6 +18,69 @@ var paesia = [
 {"text":"https://vk.com/childrenpizdik","namefemale":"Артём Медведев","fact":"Кидок - кинул на 145р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id600690367"},
 {"text":"https://vk.com/id600690367","namefemale":"Артём Медведев","fact":"Кидок - кинул на 145р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id600690367"}, 
 
+{"text":"https://vk.com/verhunov_trade","namefemale":"Илья Верхунов","fact":"Кидок - кинул на 900р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id579254755"},
+{"text":"https://vk.com/id579254755","namefemale":"Илья Верхунов","fact":"Кидок - кинул на 900р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id579254755"}, 
+
+{"text":"https://vk.com/id544923980","namefemale":"Даня Королёв","fact":"Кидок - кинул на аккаунт в Standoff2.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id544923980"},
+{"text":"https://vk.com/sk1pyyy_durak","namefemale":"Даня Королёв","fact":"Кидок - кинул на аккаунт в Standoff2.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id544923980"}, 
+
+{"text":"https://vk.com/slip.slide","namefemale":"Марсель Меркулов","fact":"Кидок - кинул на 70р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id631693436"},
+{"text":"https://vk.com/id631693436","namefemale":"Марсель Меркулов","fact":"Кидок - кинул на 70р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id631693436"}, 
+
+{"text":"https://vk.com/marlov_5","namefemale":"Андрей Счатов","fact":"Взаимные отзывы.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id651013129"},
+{"text":"https://vk.com/id651013129","namefemale":"Андрей Счатов","fact":"Взаимные отзывы.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id651013129"}, 
+
+{"text":"https://vk.com/why_morozov","namefemale":"Максим Морозов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id569860590"},
+{"text":"https://vk.com/id569860590","namefemale":"Максим Морозов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id569860590"}, 
+
+{"text":"https://vk.com/mosqw","namefemale":"Павел Московский","fact":"Продажа страницы с отзывами","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id684505935"},
+{"text":"https://vk.com/id684505935","namefemale":"Павел Московский","fact":"Продажа страницы с отзывами","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id684505935"}, 
+
+{"text":"https://vk.com/mepandayt","namefemale":"Денис Гончаров","fact":"Кидок - кинул на 800р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id550489933"},
+{"text":"https://vk.com/id550489933","namefemale":"Денис Гончаров","fact":"Кидок - кинул на 800р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id550489933"}, 
+
+{"text":"https://vk.com/xarpasov","namefemale":"Андрей Харпачов","fact":"Предлагает скамнуть","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id657926301"},
+{"text":"https://vk.com/id657926301","namefemale":"Андрей Харпачов","fact":"Предлагает скамнуть","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id657926301"}, 
+
+{"text":"https://vk.com/denis_karpov20","namefemale":"Денис Карпов","fact":"Кидок - кинул на 550р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id683114729"},
+{"text":"https://vk.com/id683114729","namefemale":"Денис Карпов","fact":"Кидок - кинул на 550р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id683114729"}, 
+
+{"text":"https://vk.com/isakov_garant_official","namefemale":"Николай Исаков","fact":"Кидок - кинул на 550р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id466569521"},
+{"text":"https://vk.com/id466569521","namefemale":"Николай Исаков","fact":"Кидок - кинул на 550р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id466569521"}, 
+
+{"text":"https://vk.com/isakov_garant_official","namefemale":"Николай Исаков","fact":"Кидок - кинул на 550р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id466569521"},
+{"text":"https://vk.com/id678292161","namefemale":"Марат Тимченко","fact":"Кидок - кинул на 500р","number":"+79520248248","group":"Не удалось найти ","vechnaya":"https://vk.com/id678292161"}, 
+
+{"text":"https://vk.com/id687039584","namefemale":"Андрей Матвеев ","fact":"Кидок - кинул на 25р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id687039584"},
+{"text":"https://vk.com/id647196303","namefemale":"Артем Калинин","fact":"Кидок - кинул на 45р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id647196303"}, 
+
+{"text":"https://vk.com/id624594857","namefemale":"Олег Абрамов","fact":"Кидок - кинул на 45р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id624594857"},
+{"text":"https://vk.com/id509028246","namefemale":"Шахриёр Закиров","fact":"Гарант кидала не ведитесь он вместе с другом кидают на аккаунты или деньги","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id509028246"}, 
+
+{"text":"https://vk.com/id563911665","namefemale":"Тимофей Яшин","fact":"Кидок - кинул на 200р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id563911665"},
+{"text":"https://vk.com/id675440137","namefemale":"Галина Пупкина","fact":"Мошенница","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id675440137"}, 
+
+{"text":"https://vk.com/id578272130","namefemale":"Артем Мыргин","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id578272130"},
+{"text":"https://vk.com/id298091574","namefemale":"Витя Фадеев","fact":"Кидок - кинул на 10р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id298091574"}, 
+
+{"text":"https://vk.com/id458016817","namefemale":"Артём Коптев","fact":"Сначала предлагает Поповича, отказуется от мирного и пирина, потом вовсе просит на доверие, типичная схема кидков!!","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id458016817"},
+{"text":"https://vk.com/id584699110","namefemale":"Имя не определено","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id584699110"}, 
+
+{"text":"https://vk.com/id386971032","namefemale":"Тихон Смольский","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id386971032"},
+{"text":"https://vk.com/id177516212","namefemale":"Виктор Каневский","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id177516212"}, 
+
+{"text":"https://vk.com/id638164910","namefemale":"Максим Громов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id638164910"},
+{"text":"https://vk.com/id475771468","namefemale":"Андрей Фролов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id475771468"}, 
+
+{"text":"https://vk.com/id685480112","namefemale":"Кирилл Федулов","fact":"Кидок - кинул на 30р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id685480112"},
+{"text":"https://vk.com/id677434984","namefemale":"Роман Соболев","fact":"Кидок - кинул на 210р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id677434984"}, 
+
+{"text":"https://vk.com/id443880086","namefemale":"Никита Хромов","fact":"Кидок - кинул на 210р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id443880086"},
+{"text":"https://vk.com/id594717962","namefemale":"Олег Ксенофонтов","fact":"Кидок - кинул на аккаунт самп.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id594717962"}, 
+
+{"text":"https://vk.com/id474017950","namefemale":"Саша Малов","fact":"Кидок - кинул на 80р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id474017950"},
+{"text":"https://vk.com/id414239169","namefemale":"Никита Фоменко","fact":"Накрутчик Отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id414239169"},
+
 {"text":"https://vk.com/momont062","namefemale":"Евгений Наумов","fact":"Кидок - кинул на 453р..","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id348035159"},
 {"text":"https://vk.com/id348035159","namefemale":"Евгений Наумов","fact":"Кидок - кинул на 453р..","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id348035159"}, 
 
