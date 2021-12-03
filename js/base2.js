@@ -18,6 +18,25 @@ var paesia = [
 {"text":"https://vk.com/childrenpizdik","namefemale":"Артём Медведев","fact":"Кидок - кинул на 145р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id600690367"},
 {"text":"https://vk.com/id600690367","namefemale":"Артём Медведев","fact":"Кидок - кинул на 145р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id600690367"}, 
 
+
+{"text":"https://vk.com/id617728793","namefemale":"Артем Шонхоров","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id617728793"},
+{"text":"https://vk.com/id615299453","namefemale":"Давид Пираев","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id615299453"}, 
+
+{"text":"https://vk.com/id638164910","namefemale":"Максим Громов","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id638164910"},
+{"text":"https://vk.com/id569203067","namefemale":"Сергей Марвинов","fact":"Кидок - кинул на 700р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id569203067"}, 
+
+{"text":"https://vk.com/id434282525","namefemale":"Иван Соколов","fact":"Вз отзывы","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id434282525"},
+{"text":"https://vk.com/id546011111","namefemale":"Дима Аняня(Прогован)","fact":"Кидок.","number":"+89106840842","group":"Не удалось найти ","vechnaya":"https://vk.com/id546011111"}, 
+
+{"text":"https://vk.com/id635715285","namefemale":"Жак Фреско","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id635715285"},
+{"text":"https://vk.com/id658054146","namefemale":"Степан Матвеев","fact":"Вз отзывы","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id658054146"}, 
+
+{"text":"https://vk.com/id583081130","namefemale":"Ваня Бро","fact":"Не верьте кидок ","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id583081130"},
+{"text":"https://vk.com/gta5boosteasy5","namefemale":"ПРОКАЧКА ГТА5  НАКРУТКА ГТА БУСТ","fact":"Обманули на 150р","number":"Не удалось найти ","group":"https://vk.com/gta5boosteasy5","vechnaya":"https://vk.com/public152112376"}, 
+
+{"text":"https://vk.com/public152112376","namefemale":"ПРОКАЧКА ГТА5  НАКРУТКА ГТА БУСТ","fact":"Обманули на 150р","number":"Не удалось найти ","group":"https://vk.com/gta5boosteasy5","vechnaya":"https://vk.com/public152112376"},
+{"text":"https://vk.com/id506930544","namefemale":"Данил Будько","fact":"Предлагает скам 50 на 50","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id506930544"},
+
 {"text":"https://vk.com/verhunov_trade","namefemale":"Илья Верхунов","fact":"Кидок - кинул на 900р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id579254755"},
 {"text":"https://vk.com/id579254755","namefemale":"Илья Верхунов","fact":"Кидок - кинул на 900р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id579254755"}, 
 
