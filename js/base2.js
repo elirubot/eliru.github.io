@@ -35,6 +35,76 @@ var paesia = [
 {"text":"https://vk.com/gta5boosteasy5","namefemale":"ПРОКАЧКА ГТА5  НАКРУТКА ГТА БУСТ","fact":"Обманули на 150р","number":"Не удалось найти ","group":"https://vk.com/gta5boosteasy5","vechnaya":"https://vk.com/public152112376"}, 
 
 {"text":"https://vk.com/public152112376","namefemale":"ПРОКАЧКА ГТА5  НАКРУТКА ГТА БУСТ","fact":"Обманули на 150р","number":"Не удалось найти ","group":"https://vk.com/gta5boosteasy5","vechnaya":"https://vk.com/public152112376"},
+{"text":"https://vk.com/id506930544","namefemale":"Данил Будько","fact":"Предлагает скам 50 на 50","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id506930544"}, 
+
+{"text":"https://vk.com/id575863801","namefemale":"Аля Вдовенко","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id639534831","namefemale":"Вадим Шаров","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id623500666","namefemale":"Максим Тутаев","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id476766956","namefemale":"Данил Киров","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id637001452","namefemale":"Арина Бисикуфурова","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id533508403","namefemale":"Геннадий Пантелеев","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id606674338","namefemale":"Алексей Калинин","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id581922838","namefemale":"Александр Демченко","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id569084274","namefemale":"Александр Громов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id640173541","namefemale":"Сергей Мавродий","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id641423299","namefemale":"Игорь Смирнов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id386225612","namefemale":"Владислав Швец","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id450995310","namefemale":"Леся Соколова","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id25695252","namefemale":"Степан Жданов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id595946246","namefemale":"Артём Ефиновский","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id530733841","namefemale":"Даня Вечеров","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id627067489","namefemale":"Александр Ионов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id33834249","namefemale":"Александр Авангардов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id608858929","namefemale":"Никита Фамелов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id501514819","namefemale":"Антон Громов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id650589941","namefemale":"Данила Попов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id625261713","namefemale":"Иван Аскетов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id545625787","namefemale":"Максим Соколов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id365614019","namefemale":"Дамир Назаров","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id583639666","namefemale":"Егорь Даркнесов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id583639666","namefemale":"Артём Харитонов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Этл и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id657098620","namefemale":"Григорий Янбердин","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id621054937","namefemale":"Ангелина Арсеньева","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id647905122","namefemale":"Никита Лошников","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id558660596","namefemale":"Даня Прусаков","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id544396469","namefemale":"Владислав Фирсов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id639330284","namefemale":"Алексей Филов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id602986715","namefemale":"Алексей Миронов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id528470676","namefemale":"Максим Рудьков","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "}, 
+
+{"text":"https://vk.com/id245683229","namefemale":"Александр Иванов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+{"text":"https://vk.com/id467432920","namefemale":"Михаил Катанов","fact":"Скамер","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка "},
+
+{"text":"https://vk.com/id617728793","namefemale":"Артем Шонхоров","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id617728793"},
+{"text":"https://vk.com/id615299453","namefemale":"Давид Пираев","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id615299453"}, 
+
+{"text":"https://vk.com/id638164910","namefemale":"Максим Громов","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id638164910"},
+{"text":"https://vk.com/id569203067","namefemale":"Сергей Марвинов","fact":"Кидок - кинул на 700р","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id569203067"}, 
+
+{"text":"https://vk.com/id434282525","namefemale":"Иван Соколов","fact":"Вз отзывы","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id434282525"},
+{"text":"https://vk.com/id546011111","namefemale":"Дима Аняня(Прогован)","fact":"Кидок.","number":"+89106840842","group":"Не удалось найти ","vechnaya":"https://vk.com/id546011111"}, 
+
+{"text":"https://vk.com/id635715285","namefemale":"Жак Фреско","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id635715285"},
+{"text":"https://vk.com/id658054146","namefemale":"Степан Матвеев","fact":"Вз отзывы","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id658054146"}, 
+
+{"text":"https://vk.com/id583081130","namefemale":"Ваня Бро","fact":"Не верьте кидок ","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id583081130"},
+{"text":"https://vk.com/gta5boosteasy5","namefemale":"ПРОКАЧКА ГТА5  НАКРУТКА ГТА БУСТ","fact":"Обманули на 150р","number":"Не удалось найти ","group":"https://vk.com/gta5boosteasy5","vechnaya":"https://vk.com/public152112376"}, 
+
+{"text":"https://vk.com/public152112376","namefemale":"ПРОКАЧКА ГТА5  НАКРУТКА ГТА БУСТ","fact":"Обманули на 150р","number":"Не удалось найти ","group":"https://vk.com/gta5boosteasy5","vechnaya":"https://vk.com/public152112376"},
 {"text":"https://vk.com/id506930544","namefemale":"Данил Будько","fact":"Предлагает скам 50 на 50","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id506930544"},
 
 {"text":"https://vk.com/verhunov_trade","namefemale":"Илья Верхунов","fact":"Кидок - кинул на 900р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id579254755"},
