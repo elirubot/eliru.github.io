@@ -17,7 +17,8 @@ var paesia = [
 
 {"text":"https://vk.com/childrenpizdik","namefemale":"Артём Медведев","fact":"Кидок - кинул на 145р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id600690367"},
 {"text":"https://vk.com/id600690367","namefemale":"Артём Медведев","fact":"Кидок - кинул на 145р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id600690367"}, 
-
+{"text":"https://vk.com/nikita2819","namefemale":"Айбек (Олег Борборев","fact":"Кинул на акк в Со2 который стоял в общей сумме 3-4к рублей.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id634234874"},
+{"text":"https://vk.com/id634234874","namefemale":"Айбек (Олег Борборев","fact":"Кинул на акк в Со2 который стоял в общей сумме 3-4к рублей.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id634234874"},
 {"text":"https://vk.com/id568326093","namefemale":"Даниил Маркелов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id568326093"},
 {"text":"https://vk.com/id632213280","namefemale":"Олег Евсеев","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id632213280"},
 {"text":"https://vk.com/id654038702","namefemale":"Костя Фролов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id654038702"},
