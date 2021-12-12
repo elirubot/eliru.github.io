@@ -18,7 +18,18 @@ var paesia = [
 {"text":"https://vk.com/childrenpizdik","namefemale":"Артём Медведев","fact":"Кидок - кинул на 145р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id600690367"},
 {"text":"https://vk.com/id600690367","namefemale":"Артём Медведев","fact":"Кидок - кинул на 145р.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id600690367"}, 
 
-
+{"text":"https://vk.com/id568326093","namefemale":"Даниил Маркелов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id568326093"},
+{"text":"https://vk.com/id632213280","namefemale":"Олег Евсеев","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id632213280"},
+{"text":"https://vk.com/id654038702","namefemale":"Костя Фролов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id654038702"},
+{"text":"https://vk.com/id680713701","namefemale":"Матвей Денежкин","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id680713701"},
+{"text":"https://vk.com/club105277915","namefemale":"СКУПКА | ПРОДАЖА | ПОКУПКА ГОЛДЫ ","fact":"Кидок - кинул на 50р","number":"Не удалось найти ","group":"Это и есть группа","vechnaya":"https://vk.com/club105277915"},
+{"text":"https://vk.com/id622924735","namefemale":"Александр Лукашенко","fact":"Кидок - обманул на аккаунт.","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id622924735"},
+{"text":"https://vk.com/id619952591","namefemale":"Владислав Кириянов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка"},
+{"text":"https://vk.com/id406473986","namefemale":"Макс Радов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка"},
+{"text":"https://vk.com/id552505693","namefemale":"Роман Миронов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка"},
+{"text":"https://vk.com/id659584763","namefemale":"Владислав Коилов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка"},
+{"text":"https://vk.com/id592478360","namefemale":"Матвей Морозов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка"},
+{"text":"https://vk.com/id543003141","namefemale":"Максим Хазимов","fact":"Накрутчик отзывов","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"Это и есть вечная ссылка"},
 {"text":"https://vk.com/id617728793","namefemale":"Артем Шонхоров","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id617728793"},
 {"text":"https://vk.com/id615299453","namefemale":"Давид Пираев","fact":"Скам","number":"Не удалось найти ","group":"Не удалось найти ","vechnaya":"https://vk.com/id615299453"}, 
 
